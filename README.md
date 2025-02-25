@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+.. image:: https://wakatime.com/share/@4986ca22-70e2-4b82-859b-cb3f6b7ba860/08381227-e63a-4ffb-acde-c749e727838d.png
+    :target: https://wakatime.com/
